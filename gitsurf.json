@@ -35,6 +35,6 @@
 		"bed": 0,
 		"couch": 1
 	},
-	"requests": [ ],
+	"requests": [ { "name": "vinny"}  ],
 	"merges": [ ]
 }
